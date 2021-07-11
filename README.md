@@ -1,4 +1,4 @@
-# anime_wallpapers_app
+# wallpapers_app
 
 A new Flutter project.
 
